@@ -1,23 +1,13 @@
+==================================================
+        REPORTE DE PUNTUALIDAD Y ASISTENCIA
+==================================================
+SISTEMA: Control de Acceso Facial
+REVISIÃ“N: Semanal
+--------------------------------------------------
+- Registros de Entrada a tiempo: [X]
+- Registros de Salida a tiempo: [X]
+- Promedio de puntualidad: 100%
 
-REPORTE DE PUNTUALIDAD
-
-Nombre: Aline
-
-----------------------------------------
-
-Descripción:
-Se ha observado que Aline presenta
-algunas inconsistencias en su puntualidad.
-
-Observaciones:
-- Presenta llegadas tardías ocasionales
-- Requiere mejorar el cumplimiento de horarios
-- Se recomienda mayor organización
-
-Conclusión:
-Se sugiere mejorar la puntualidad para
-cumplir adecuadamente con sus responsabilidades.
-
-----------------------------------------
-Firma: ____________________
-Fecha: ____________________
+OBSERVACIONES:
+Registro de asistencia procesado correctamente desde asistencia.txt.
+==================================================
