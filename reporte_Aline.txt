@@ -1,21 +1,22 @@
 
-REPORTE DE DESEMPEÑO
+==================================================
+        RESUMEN DE ACTIVIDADES - ALINE
+==================================================
+ROL: Desarrolladora de Sistema / Servicio Social
+PERIODO: Semana 1 - Semana 5 (Abril 2026)
+--------------------------------------------------
 
-Nombre: Aline
+ACTIVIDADES REALIZADAS:
+1. Desarrollo de scripts de conteo en Python.
+2. Implementación de lógica para días laborados únicos.
+3. Organización del dataset de imágenes para entrenamiento.
+4. Vinculación del sistema de logs (asistencia.txt) con reportes.
 
-----------------------------------------
+ESTADO DEL PROYECTO:
+- Sistema de reconocimiento facial: Operativo.
+- Generación de reportes: Automatizada.
+- Control de versiones: Documentado en GitHub.
 
-Descripción:
-Se hace constar que Aline ha mostrado un excelente desempeño.
-
-Puntos positivos:
-- Responsabilidad
-- Buen trabajo en equipo
-- Cumplimiento de tareas
-
-Conclusión:
-Desempeño sobresaliente.
-
-----------------------------------------
-Firma: ____________
-Fecha: 16/04/2026
+--------------------------------------------------
+Firma: Aline - Facultad de Informática Mazatlán
+==================================================
